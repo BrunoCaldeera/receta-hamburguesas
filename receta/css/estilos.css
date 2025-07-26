@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #ff73a9;
+}
+main{
+background-color: #58295c;
+}
+footer{
+background-color: #20dad7;
+}
+
+img {
+    width: 30%
+}
+id hamburguesas {
+    width: 60%;
+}
