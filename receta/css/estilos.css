@@ -16,6 +16,10 @@ background-color: #20dad7;
 img {
     width: 30%
 }
-id hamburguesas {
+#hamburguesas {
     width: 60%;
+}
+
+.redes{
+    width: 10%;
 }
